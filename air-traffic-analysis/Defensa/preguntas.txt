@@ -1,9 +1,0 @@
-Tras analizar el dataset de datos aeroportuarios. 
-¿Qué es lo que más te ha llamado la atención? ¿Qué datos te hubiese gustado que incluyese?
-
-En el apartado de Spark has utilizado comandos de sql para la limpieza de los datos. 
-¿De qué otra forma podrías haber utilizado que no fuesen sentencias de sql?
-
-Explica como funciona una Primary Key en Cassandra 
-¿Podrías explicar por qué eliges los campos "activity_period" y "operating_airline" para generar la primary key?
-¿Por qué usas operating_airline como clustering key? ¿Cambiarías algo del trabajo presentado?
