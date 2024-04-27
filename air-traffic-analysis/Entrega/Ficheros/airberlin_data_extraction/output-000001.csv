@@ -1,0 +1,3 @@
+activity_period,operating_airline,operating_airline_iata_code,published_airline,published_airline_iata_code,geo_summary,geo_region,activity_type_code,price_category_code,terminal,boarding_area,passenger_count,adjusted_activity_type_code,year,month
+201009,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2357,Enplaned,2010,September
+201008,Air Berlin,AB,Air Berlin,AB,International,Europe,Enplaned,Other,International,G,2294,Enplaned,2010,August
